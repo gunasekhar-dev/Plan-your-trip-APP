@@ -16,6 +16,7 @@ body {
 
 .section-title {
     color: #2ddf5c;
+    text-align: center;
 }
 
 #product-overview h1 {
@@ -23,6 +24,15 @@ body {
     font-family: 'Anton', sans-serif;
 }
 
+.plans{
+    background-color: #d5ffdc;
+    display: inline-block;
+    text-align: center;
+    padding: 16px;
+    margin: 8px;
+    vertical-align: middle;
+    width: 30%;
+}
 /* h1 {
     font-family: sans-serif;
 } */
